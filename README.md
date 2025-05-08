@@ -67,7 +67,7 @@ This dashboard was designed to answer critical business queries through visualiz
 
 - **Organization:** NullClass  
 - **Role:** Data Analyst Intern  
-- **Duration:** [Enter your internship dates]  
+- **Duration:** 4 months  
 - **Project Title:** Job Analytics Portal
 
 ---
